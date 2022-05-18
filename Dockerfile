@@ -25,7 +25,7 @@ RUN tar xzf ./cloudreve.tar.gz
 
 FROM alpine:3.15.4
 
-MAINTAINER chunfengyao
+MAINTAINER haorenrenew
 
 ENV PUID=1000
 ENV PGID=1000
