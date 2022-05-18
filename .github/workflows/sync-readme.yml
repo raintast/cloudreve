@@ -16,4 +16,4 @@ jobs:
         env:
           DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
           DOCKERHUB_PASSWORD: ${{ secrets.DOCKERHUB_PASSWORD }}
-          DOCKERHUB_REPOSITORY: ${{ secrets.DOCKERHUB_USERNAME }}/cloudreve
+          DOCKERHUB_REPOSITORY: ${{ secrets.DOCKERHUB_USERNAME }}/haocoud
